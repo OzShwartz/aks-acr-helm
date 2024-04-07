@@ -7,17 +7,17 @@
 
 #Create Resource Group
 
-AKS_RESOURCE_GROUP=aks-rg
+AKS_RESOURCE_GROUP= myAKSRG
 
 AKS_REGION=centralus
 
 # Set Cluster Name
 
-AKS_CLUSTER=aks-cluster
+AKS_CLUSTER= myAKSCluster
 
 # set ACR name
 
-ACR_NAME=oz-acr-repo
+ACR_NAME= myACR 
 
 
 
