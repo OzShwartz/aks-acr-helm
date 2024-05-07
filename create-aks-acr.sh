@@ -5,7 +5,7 @@
 # This is the shell script for creating AKS cluster, ACR Repo and a namespace
 
 
-#Create Resource Group
+#Create Resource Group:
 
 AKS_RESOURCE_GROUP=myappAKSRG
 
