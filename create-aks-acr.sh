@@ -7,17 +7,17 @@
 
 #Create Resource Group
 
-AKS_RESOURCE_GROUP= myAKSRG
+AKS_RESOURCE_GROUP=myappAKSRG
 
-AKS_REGION=centralus
+AKS_REGION=westus
 
 # Set Cluster Name
 
-AKS_CLUSTER= myAKSCluster
+AKS_CLUSTER=myAppAKSCluster
 
 # set ACR name
 
-ACR_NAME= myACR 
+ACR_NAME=myAappACR 
 
 
 
